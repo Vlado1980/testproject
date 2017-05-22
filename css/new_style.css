@@ -1,0 +1,6 @@
+body {background-color: cyan}
+h2 {color: red;}
+#slikica{ border: 6px black dotted;
+  padding: 25px;}
+  #slikica:hover { border: 6px red solid;}
+  
